@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">peep.....</h2>
+<h2 align="left">Welcome!</h2>
 
 ###
 
-<p align="left">✨ Welcome!<br>📚 I'm currently learning : (Frontend development)<br>🎯 Goals: (To build something useful to the society)<br>🎲 Fun fact: ( I don't look like I'm 21)</p>
+<p align="left">📚 I'm currently learning : (Frontend development)<br>🎯 Goals: (To build something useful to the society)<br>🎲 Fun fact: ( I don't look like I'm 21)</p>
 
 ###
 
