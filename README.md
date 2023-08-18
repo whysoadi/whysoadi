@@ -54,16 +54,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img height="200" src=""  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/whysoadi/count.svg?"  />
 </div>
